@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=MATLAB R2020a
 Comment=MATLAB R2020a software
-Exec=/usr/local/MATLAB/R2020a/bin/matlab -desktop
+Exec=/usr/local/MATLAB/R2020a/bin/matlab -desktop -softwareopengl
 Icon=/usr/share/app-install/icons/_usr_share_icons_hicolor_48x48_apps_matlab.png
 Terminal=false
 Type=Application
